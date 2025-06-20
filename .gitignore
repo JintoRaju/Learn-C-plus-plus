@@ -1,0 +1,43 @@
+# ---------------------
+# Compiled Object Files
+# ---------------------
+*.o
+*.obj
+*.so
+*.dll
+*.lib
+*.a
+*.exe
+*.out
+
+# ---------------------
+# Build Directories
+# ---------------------
+build/
+Build/
+cmake-build-*/
+
+# ---------------------
+# CMake Files
+# ---------------------
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# ---------------------
+# IDEs and Editors
+# ---------------------
+
+
+# VS Code
+.vscode/
+
+# ---------------------
+# Others
+# ---------------------
+*.swp
+*.bak
+*.tmp
+
